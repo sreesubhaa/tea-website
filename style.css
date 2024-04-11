@@ -1,0 +1,103 @@
+.container-fluid{
+    background-color:floralwhite;
+}
+.navbar a{
+    text-transform: uppercase;
+    margin-left: 50px;
+    text-decoration: none;
+    font-weight:100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}
+.air{
+    background-color:honeydew;
+   
+   
+}
+.ban{
+   
+    margin-left: 130px;
+}
+.pen{
+   margin-left: 200px;
+    margin-top:200px;
+    font-family: monospace;
+    font-weight: 600;
+}
+.orange{
+    font-weight: 800;
+    color: aliceblue;
+}
+.oil{
+    display: flex;
+    margin-top: 50px;
+    gap: 20px;
+    margin-right: 100px;
+}
+.wen{
+    margin-top: 30px;
+}
+.bg-hand{
+    margin-left: 70px;
+    gap: 50px;
+}
+.bg-hand a:hover{
+    color:yellowgreen;
+
+    
+}
+.btn{
+    background-color: yellowgreen;
+    color: aliceblue;
+    
+}
+.pink{
+    margin-top: 250px;
+    margin-left: 250px;
+}
+.fan{
+    font-weight: 700;
+}
+.tea{
+    font-family:monospace;
+    font-weight: 700;
+}
+.leaf{
+    background-size: cover;
+}
+.list{
+    overflow: hidden;
+    position: fixed;
+    display: block;
+}
+.flow{
+    margin-left: 20px;
+    margin-top: 70px;
+}
+
+.can{
+    background-color: khaki;
+   
+}
+
+.cup{
+    margin-top: 50px;
+}
+.pum{
+    margin-top: 20px;
+    color: yellowgreen;
+    
+  
+}
+.water{
+    background-color: chartreuse;
+}
+
+
+
+
+
+
+
+
+
